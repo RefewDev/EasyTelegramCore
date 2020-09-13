@@ -12,9 +12,9 @@ Supporta sia italiano che inglese, configurabile via web nel file settings.php
 
 ## Installazione
 1) Scarica la cartella "EasyTelegramCore-master" da github (bisogna estrarla da "EasyTelegramCore-master.zip")
-2) Caricarla nel vostro servizio hosting
-3) Andare via web(tramite il browser) su tuo_dominio_o_ip/cartella_dove_avete_caricato_easytelegramcore/EasyTelegramCore-master/EasyTelegramCore-master/settings.php
-> Esempio: refewdev.altervista.org/EasyTelegramCore-master/EasyTelegramCore-master/settings.php
+2) Nel cartella estratta c'è un'altra cartella chiamata "EasyTelegramCore-master", rinominala in "EasyTelegramCore" e caricala nel tuo servizio hosting
+3) Andare via web(tramite il browser) su tuo_dominio_o_ip/cartella_dove_avete_caricato_easytelegramcore/EasyTelegramCore/settings.php
+> Esempio: refewdev.altervista.org/EasyTelegramCore/settings.php
 4) Seguire ciò che viene mostrato
 5) Scegliere la lingua
 
