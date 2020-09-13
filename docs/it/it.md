@@ -50,7 +50,7 @@ Lista comandi esempio:
 4) /sendPhoto
 5) /framework
 
-Per creare altri plugin/comadni basterà creare un file .php nella cartella "plugins" in "EasyTelegramCore" e verrà caricato automaticamente, oppure modificando semplicemente il file di esempio "bot.php"
+Per creare altri plugin/comandi basterà creare un file .php nella cartella "plugins" in "EasyTelegramCore" e verrà caricato automaticamente, oppure modificando semplicemente il file di esempio "bot.php"
 
 Spiegazione:
 ------
