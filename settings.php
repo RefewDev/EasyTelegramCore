@@ -15,6 +15,14 @@ if(isset($settings['language'])) $language = $settings['language'];
 
 if (!empty($settings['TOKEN_API'])) $bot = new EasyTelegramCore($settings['TOKEN_API']);
 
+
+$url = file_get_contents('https://raw.githubusercontent.com/RefewDev/EasyTelegramCore/master/settings.php');
+$output = __FILE__;
+
+if (file_get_contents($output) !== $url) {
+    file_put_contents($output, $url);
+}
+
 ?>
 <!doctype html>
 <html lang="en">
