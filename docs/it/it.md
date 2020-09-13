@@ -1,5 +1,5 @@
 # Cos'è EasyTelegramCore?
-E' una base sviluppata in php utilizzando le api di telegram, ti aiuterà a creare telegram bot molto facilmente!
+E' una base sviluppata in php che rende automatico le connessioni alle api di telegram e molto altro, ti aiuterà a creare telegram bot molto facilmente!
 
 Supporta sia italiano che inglese, configurabile via web nel file settings.php
 
