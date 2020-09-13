@@ -12,9 +12,9 @@ It supports both Italian and English, configurable via the web in the settings.p
 
 ## Installation
 1) Download the "EasyTelegramCore" folder from github
-2) Upload it to your hosting service
-3) Go via web(via the browser) to your_domain_or_ip/directory_where_you_upload_easytelegramcore/EasyTelegramCore/settings.php
-> Example: refewdev.altervista.org/EasyTelegramCore/settings.php
+2) Upload it to your hosting service, you can rename it to "EasyTelegramCore", but then, change it also in web
+3) Go via web(via the browser) to your_domain_or_ip/directory_where_you_upload_easytelegramcore/EasyTelegramCore-master/EasyTelegramCore-master/settings.php
+> Example: refewdev.altervista.org/EasyTelegramCore-master/EasyTelegramCore-master/settings.php
 4) Follow what is shown
 5) Choose your language
 
