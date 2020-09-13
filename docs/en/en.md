@@ -11,10 +11,10 @@ It supports both Italian and English, configurable via the web in the settings.p
 - SSL (telegram sends requests only to sites with ssl certificate)
 
 ## Installation
-1) Download the "EasyTelegramCore" folder from github
-2) Upload it to your hosting service, you can rename it to "EasyTelegramCore", but then, change it also in web
-3) Go via web(via the browser) to your_domain_or_ip/directory_where_you_upload_easytelegramcore/EasyTelegramCore-master/EasyTelegramCore-master/settings.php
-> Example: refewdev.altervista.org/EasyTelegramCore-master/EasyTelegramCore-master/settings.php
+1) Download the "EasyTelegramCore-master" folder from github (you need to extract it from "EasyTelegramCore-master.zip")
+2) In the extracted folder there is another folder called "EasyTelegramCore-master", rename it to "EasyTelegramCore" and upload it to your hosting service
+3) Go via web(via the browser) to your_domain_or_ip/directory_where_you_upload_easytelegramcore/EasyTelegramCore/settings.php
+> Example: refewdev.altervista.org/EasyTelegramCore-/settings.php
 4) Follow what is shown
 5) Choose your language
 
