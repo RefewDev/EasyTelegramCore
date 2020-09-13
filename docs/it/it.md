@@ -69,7 +69,23 @@ Al posto di scrivere sendMessage è possibile anche richiamare la classe e crear
         $args = array("chat_id" => $chatID, "text" => $help);
         $bot->TelegramApi("sendMessage", $args);
       }
-> L'array è stato necessario crearlo per soddisfare i requisiti necessari del metodo sendMessage(https://core.telegram.org/bots/api#sendmessage)
+> L'array è stato necessario crearlo per soddisfare i requisiti necessari del metodo [sendMessage](https://core.telegram.org/bots/api#sendmessage)
+
+Funzioni preimpostate nel file "EasyTelegramCore/refew/func.php" (10):
+- sendMessage
+- editMessage
+- deleteMessage
+- sendNotification
+- getChat
+- getChatAdministrators
+- getChatMembersCount
+- leaveChat
+- sendPhoto
+- forwardMessage
+> Per più informazioni su come usarle controllare il file delle funzioni. 
+
+Puoi vedere le variabili preimpostate controllando il file "EasyTelegramCore/refew/var.php"
+> Non sono tutte, devo finire ad aggiungerle, forse nel prossimo aggiornamento 🤪
 
 ### Puoi trovare altre spiegazioni dettagliate su funzioni e variabili [cliccando qui](https://core.telegram.org/bots/api)
 ------
