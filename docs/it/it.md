@@ -85,7 +85,7 @@ Funzioni preimpostate nel file "EasyTelegramCore/refew/func.php" (10):
 > Per più informazioni su come usarle controllare il file delle funzioni. 
 
 Puoi vedere le variabili preimpostate controllando il file "EasyTelegramCore/refew/var.php"
-> Non sono tutte, devo finire ad aggiungerle, forse nel prossimo aggiornamento 🤪
+> Non sono tutte, devo finire ad aggiungerle, forse nel prossimo aggiornamento
 
 ### Puoi trovare altre spiegazioni dettagliate su funzioni e variabili [cliccando qui](https://core.telegram.org/bots/api)
 ------
