@@ -27,6 +27,8 @@ It supports both Italian and English, configurable via the web in the settings.p
 7) Choose the settings for your bot
 > In the log channel id you can also put your telegram id
 
+> The bot must be admin with the possibility of sending messages in the log channel (I think it is obvious to say this)
+
 ![3](https://github.com/RefewDev/EasyTelegramCore/blob/master/docs/en/3.png)
 
 > Example
