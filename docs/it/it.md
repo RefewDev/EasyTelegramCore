@@ -27,6 +27,8 @@ Supporta sia italiano che inglese, configurabile via web nel file settings.php
 7) Scegliere le impostazioni per il proprio bot
 > Nell'id del canale log potete mettere anche il vostro id telegram
 
+> Il bot deve essere admin con possibilità di mandare messaggi nel canale log(penso sia scontato dirlo)
+
 ![3](https://github.com/RefewDev/EasyTelegramCore/blob/master/docs/it/3.png)
 
 > Esempio
